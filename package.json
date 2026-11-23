@@ -1,0 +1,28 @@
+{
+  "name": "livestream-reaction-engine",
+  "version": "1.0.0",
+  "description": "This is a reaction engine for livestreams (think Twitch, Facebook Live) built for an Internship opportunity at a gaming company.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pooh-Xi/livestream-reaction-engine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pooh-Xi/livestream-reaction-engine/issues"
+  },
+  "homepage": "https://github.com/Pooh-Xi/livestream-reaction-engine#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2",
+    "vite": "^8.3.8"
+  }
+}
